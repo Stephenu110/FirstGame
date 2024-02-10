@@ -1,0 +1,17 @@
+# Unity specific
+Assets/BayatGames.meta
+Assets/BayatGames/
+Assets/Prefabs.meta
+Assets/Prefabs/
+Assets/Scenes.meta
+Assets/Scenes/
+Assets/Scripts.meta
+
+# Unity build output
+BuildOutput.app/
+
+# Unity generated files
+Library/
+Logs/
+Temp/
+UserSettings/
